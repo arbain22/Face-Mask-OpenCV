@@ -1,1 +1,1 @@
-# Face-Mask-OpenCV
+# Face-Mask-Detection-OpenCV
