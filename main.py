@@ -7,7 +7,7 @@ from keras.models import load_model
 from cvzone.FaceMeshModule import FaceMeshDetector
  
 
-model=load_model("model2-001.model")
+model=load_model("Face-Mask-OpenCV\model2-001.model")
 results={0:'With Mask',1:'Without Mask'}
 GR_dict={0:(0,255,0),1:(0,0,255)}
 rect_size = 4
